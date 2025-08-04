@@ -1,4 +1,4 @@
-# Java RADIUS Gateway Module — Initiative Roadmap
+# Java RADIUS Gateway Module
 
 This project delivers a **lightweight, embeddable RADIUS protocol handler** in Java, designed for integration into a custom authentication server (e.g., OTP-based VPN login via RADIUS).
 
