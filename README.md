@@ -183,18 +183,7 @@ The RADIUS Gateway is now feature-complete with full RFC compliance and can be d
 
 ## 📄 License
 
-This module is intended to be used in commercial or open-source projects with clean IP. Licensing options:
-- Apache-2.0 (recommended)
-- MIT
-- Proprietary (internal)
-
----
-
-## 👥 Contributors
-
-- Architect: [Your Name]
-- Core Developer: [Your Name]
-- Integration & Testing: [Your Name or Team]
+To Be Updated
 
 ---
 
