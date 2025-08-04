@@ -189,17 +189,7 @@ To Be Updated
 
 ## 📂 Directory Structure
 
-<pre>
-src/main/java/com/radiusgateway/
-├── RadiusServer.java
-├── RadiusPacket.java
-├── RadiusHandler.java
-├── RadiusCodec.java
-├── RadiusResponseBuilder.java
-├── NasRegistry.java
-├── CombinedPasswordOtpHandler.java
-├── AuthBackend.java
-</pre>
+To Be Updated
 
 ---
 
